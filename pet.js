@@ -30,4 +30,4 @@ function sleepPet() {
 setInterval(function() {
   hunger += 1;
   console.log("Your pet is getting hungrier! Hunger is now " + hunger);
-}, _______);
+}, 10000);
